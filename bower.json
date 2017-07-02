@@ -1,18 +1,18 @@
 {
-  "name": "litecore-message",
-  "main": "./litecore-message.min.js",
+  "name": "guldencore-message",
+  "main": "./guldencore-message.min.js",
   "version": "1.0.2",
-  "homepage": "https://github.com/litecoin-project/litecore-message",
+  "homepage": "https://github.com/guldenchain/guldencore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Litecoin Message Verification and Signing for Litecore",
+  "description": "Gulden Message Verification and Signing for Guldencore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "litecoin",
-    "litecore",
+    "gulden",
+    "guldencore",
     "ltc",
     "satoshi",
     "message",

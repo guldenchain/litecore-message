@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var litecoreTasks = require('litecore-build');
+var guldencoreTasks = require('guldencore-build');
 
-litecoreTasks('message');
+guldencoreTasks('message');
 
 gulp.task('default', ['lint', 'coverage']);
